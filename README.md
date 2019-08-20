@@ -1,2 +1,2 @@
 # GDWordCount
-Process Word Count for a Weblink
+Process Word Count for a given Weblink
